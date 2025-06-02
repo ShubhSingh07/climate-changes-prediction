@@ -73,7 +73,7 @@ This project aims to analyze and predict climate change indicators such as tempe
 
 ## Key Outputs and Visualizations
 
-### 1. Data Preprocessing
+
 **Code:**
 ```python
 # Handling missing values using forward fill strategy
