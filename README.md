@@ -113,7 +113,7 @@ Project Directory:
   - actual_vs_predicted.png
   - projected_temperature_anomaly.png
                            
-![image](https://github.com/user-attachments/assets/bc7d34bb-9737-4eb4-94c4-18c349dadb73)
+
 
 
 
