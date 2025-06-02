@@ -111,3 +111,14 @@ Project Directory:
   - residual_plot.png
   - actual_vs_predicted.png
   - projected_temperature_anomaly.png
+** OUTPUT:
+![Screenshot 2025-06-02 140148](https://github.com/user-attachments/assets/a6cfa187-51a9-4a56-9f28-b84911dc5924)
+![image](https://github.com/user-attachments/assets/3366a968-80b1-4981-a206-6bd356062161)
+![image](https://github.com/user-attachments/assets/a2ea0b56-0401-42fc-9d44-3fa00a9eb785)
+![image](https://github.com/user-attachments/assets/c7a6cc22-6b98-4a0d-9b49-4f9777d897ae)
+
+![image](https://github.com/user-attachments/assets/bc7d34bb-9737-4eb4-94c4-18c349dadb73)
+
+
+
+
