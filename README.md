@@ -28,14 +28,24 @@ This project is ideal for developers who want to quickly get started with a new 
 
 | Technology | Version |
 | --- | --- |
-| Programming Language | [insert programming language(s)] |
-| Framework | [insert framework(s)] |
-| Database | [insert database(s)] |
-| Testing Framework | [insert testing framework(s)] |
-| Build Tool | [insert build tool(s)] |
+| Programming Language | Python |
+| Framework | Jupyter |
+ 
 
 **Project Structure**
 ======================================================
+├── Data Exploration
+    ├── 16a3f91a-94d4-4808-8ce7-72261cdb75b3.png
+    ├── 19e2fcab-4da7-4c2e-a4a8-0958bcaa4dd7.png
+    ├── 3d342533-3ae4-4b95-a489-f29c599ccc19.png
+    ├── Data Preprocessing
+    │   └── adjusting.ipynb
+    ├── Visualization.ipynb
+    ├── faf44fe7-e722-4a8b-942d-ebf7b752dc05.png
+    └── photos
+├── README.md
+├── climate_final_dataset.csv
+└── dataset.ipynb
 
 The project structure is as follows:
 
@@ -67,19 +77,8 @@ To run the automated tests, follow these steps:
 **Screenshots**
 ======================================================
 
-[Insert screenshots of the project in action]
+<img width="1182" height="807" alt="image" src="https://github.com/user-attachments/assets/eede1748-75b6-4188-8532-37f9a8edb6e8" />
 
-**API Reference**
-======================================================
 
-[Insert API reference documentation, if applicable]
 
-**Author**
-======================================================
 
-The Generic Codebase is written by [insert author name].
-
-**License**
-======================================================
-
-The Generic Codebase is licensed under [insert license name].
